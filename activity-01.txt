@@ -1,4 +1,5 @@
 lorenz
 BS INFORMATION TECHNOLOGY
 Centro Escolar University 
+PRIN135 (Web Systems and Technology Lecture), PRIN135L (Web Systems and Technology Lab)
 BSIT3A
